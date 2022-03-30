@@ -1,6 +1,7 @@
 # 통계 API 구축 SQL 작성 ( Group by, union, substr, case when then 구문 사용 ) 접속일자와 회원 아이디가 있는 TEMP 테이블이라는 기준. (예시)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cdc87706-36ca-47d1-ab0a-24d90d267519/Untitled.png)
+![image](https://user-images.githubusercontent.com/42718588/160858683-20cbae39-05e7-4f46-96c0-34f95b217690.png)
+
 
 1. 월별접속자수  - 접속기록을 월별로 카운트. 
     
