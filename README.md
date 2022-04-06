@@ -26,3 +26,11 @@
   - 부서별 월별 로그인 수
   
  3. RestController를 활용한 간단 API 구현
+
+# 3주차 
+
+실습과제
+1. API구축을 위한 아래 SQL 작성
+2. RestController를 활용하여 Rest API를 구축합니다. ▪ - 3차 과제 작성 SQL을 활용
+3. - 2차 과제의 API 가이드를 보완하여 완성
+
