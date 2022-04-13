@@ -38,13 +38,13 @@
 
 실습과제 
 - 코딩테스트 준비하기
-프로그래머스 : ( SQL )
+1. 프로그래머스 : ( SQL )
 
 group by : [https://programmers.co.kr/learn/courses/30/lessons/59041](https://programmers.co.kr/learn/courses/30/lessons/59041)
 
-프로그래머스 : 완주하지 못한 선수 ( 코딩)
+2. 프로그래머스 : 완주하지 못한 선수 ( 코딩)
 
 [https://programmers.co.kr/learn/courses/30/lessons/42576](https://programmers.co.kr/learn/courses/30/lessons/42576)
 
-leetcode : two sum ( 코딩 )
+3. leetcode : two sum ( 코딩 )
 [https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
